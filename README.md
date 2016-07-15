@@ -1,6 +1,6 @@
 # Demo
 
-https://book-exchange-club.herokuapp.com/
+https://pin--clone.herokuapp.com/
 
 
 
